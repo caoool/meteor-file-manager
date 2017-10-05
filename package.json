@@ -5,6 +5,7 @@
     "start": "meteor run"
   },
   "dependencies": {
+    "aws-sdk": "^2.127.0",
     "babel-runtime": "^6.26.0",
     "meteor-node-stubs": "~0.2.4",
     "react": "^16.0.0",
